@@ -1,6 +1,6 @@
 GIT
   remote: git://github.com/tick-scheduler/tick-ruby.git
-  revision: ceac9ef74a19fe18168a85bce7b4b84bb59da0bd
+  revision: a556c97b6cc20e1678bde8ac95d6179dd2d5705e
   specs:
     tick-ruby (0.0.1)
       faraday
@@ -30,9 +30,9 @@ GEM
       rack (~> 1.4)
       rack-protection (~> 1.4)
       tilt (~> 1.3, >= 1.3.4)
-    thin (1.5.1)
+    thin (1.6.2)
       daemons (>= 1.0.9)
-      eventmachine (>= 0.12.6)
+      eventmachine (>= 1.0.0)
       rack (>= 1.0.0)
     tilt (1.4.1)
 
